@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Kittens Korner",
+  "description": "A parent-centered hub for indoor play, community, education, and family support, based on the Kittens Korner concept.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
